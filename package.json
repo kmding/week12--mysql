@@ -1,0 +1,24 @@
+{
+  "name": "week12--mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmding/week12--mysql.git"
+  },
+  "author": "Kevin Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmding/week12--mysql/issues"
+  },
+  "homepage": "https://github.com/kmding/week12--mysql#readme"
+}
